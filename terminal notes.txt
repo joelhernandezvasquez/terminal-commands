@@ -1,0 +1,15 @@
+terminal for developers
+
+ls:means list files
+cd:means change directory
+mkdir:creates a directory
+rm -r [name of folder]: remove the folder 
+cd ~/[name of folder] : it takes you to folder directly
+touch [name of the file]: it creates a file
+nano [name of the file]: it will allow you to write inside the file.
+rm [name of the file]: it removes the file
+
+MOVING FILES AROUND
+
+
+mv [name of the file] to directory path
